@@ -6,7 +6,7 @@ Since my childhood, I have been dedicated to the wide world of IT.
 
 Initially, I took RC cars apart to understand how they worked (I didn't put them back together, of course).
 
-Then at age of 11 I started "developing" software and after many years (of learning, learning and learning) I called it my profession.
+Then, at age of `11`, I started "developing" software and after many years (of learning, learning and learning) I called it my profession.
 
 
 ## Languages and Tools (selection)
