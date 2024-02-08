@@ -50,7 +50,7 @@ Then, at age of `11`, I started "developing" software and after many years (of l
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="60" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="60" /></a>
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="60" /></a>
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" height="60" /></a>
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" height="60" /></a>
 <a href="https://www.chartjs.org/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="60" /></a>
 <a href="https://webpack.js.org/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="Webpack" height="60" /></a>
 <a href="https://gulpjs.com/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" alt="gulp.js" height="60" /></a>
